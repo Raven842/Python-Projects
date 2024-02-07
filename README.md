@@ -12,3 +12,5 @@ In time, when I feel like a reasonable ammount of content is released I might se
 For now it there will mostly be games and I will keep an updated list here
 
 > Fruit: A very simple fruit ninja style game run with pygame
+
+If you have any questions, or just want to reach out you can find me at lavenderraven@duck.com
