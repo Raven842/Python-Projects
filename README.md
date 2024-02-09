@@ -18,5 +18,3 @@ For now it there will mostly be games and I will keep an updated list here
 > Fruit: A very simple fruit ninja style game run with pygame
 
 > Coin collector: a slightly more complex game in the same genre as snake but less developed for now.
-
-If you have any questions, or just want to reach out you can find me at lavenderraven@duck.com
