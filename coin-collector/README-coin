@@ -1,0 +1,13 @@
+
+> Content category: Python Game
+
+Description:
+***********************
+Mildly more complex than fruit, this game involves the player charicter, represented by a fox and moved by the players choice of arrow or WASD keys muct collect as many coins as possible in under 7 seconds. Another version (Coin2.py) allows the user to choose the time limit.
+
+Requirements:
+************************
+
+pgzero     1.2.1
+pip        24.0
+pygame     2.5.2
