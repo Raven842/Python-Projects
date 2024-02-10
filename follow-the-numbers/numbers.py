@@ -6,3 +6,7 @@ from random import randint
 WIDTH = 400
 HEIGHT = 400
 
+# Vars 
+dots = []
+lines = []
+next_dot = 0
